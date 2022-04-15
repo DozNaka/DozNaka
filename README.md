@@ -1,9 +1,6 @@
-# Why are you here?
+# Welcome to my Github profile!
 
-### There's nothing for you to see here, now go away ya gold digger.
-
-### Lead developer of MC Reaper (Aoi'shi Naka) Discord.py bot
-
-### I make a lot of stupid mistakes ;)
-
-### Discord: Doz#1040 (easy to remember right?)
+## My Status:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DozNaka&theme=highcontrast)](https://git.io/streak-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DozNaka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -8,7 +8,7 @@
 ## My primary repos:
 :star: [KawaKernel-A217X](https://github.com/DozNaka/KawaKernel-A217X)
 
-:star: [TWRP A21s](https://github.com/DozNaka/exynos3830-a21s-twrp)
+:star: [TWRP A21s](https://github.com/DozNaka/android_device_samsung_a21s)
 
 :star: [MC Reaper](https://github.com/MC-Reaper/MCReaper)
 

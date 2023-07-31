@@ -1,7 +1,7 @@
 # Welcome to my Github profile!
 
 ## Socials:
-**Discord**: Doz#1040
+**Discord**: doznaka
 
 **Telegram**: @DozNaka
 
